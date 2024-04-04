@@ -7,7 +7,7 @@ header{
     color:white;
 }
 body{
-    background-color: #383d58;
+    background-color: #01E0FF;
     color:white; 
 
 }
@@ -26,4 +26,16 @@ body{
 }
 .escola-imagem{
     width: 40%;
+}
+.escola{
+    background-image: linear-gradient(#383d58, #01E0FF) ;
+    display: flex;
+    color: white;
+}
+.escola-conteudo{
+    width: 45%;
+
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
